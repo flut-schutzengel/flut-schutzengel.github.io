@@ -414,7 +414,7 @@
       // Define a pop-up for informing on flood-danger zones
       const popupContour = {
         "title": "Height (contour) Information of Zurich",
-        "content": "<b>Height:</b> {hoehe}<br><b>Countour length:</b> {Shape__Length}"
+        "content": "<b>Height:</b> {hoehe}<br><b>Countour length:</b> {Shape__Length} m"
       };   
       // Define the feature layer for the pop-up
       const contour = new FeatureLayer({
@@ -450,7 +450,7 @@
       // Define a pop-up for swiss glaciers to inform on potential flood-flow due to global warming
       const popupGlacier = {
         "title": "Swiss Glaciers",
-        "content": "<b>Glacier name:</b> {Name}<br><b> Area (potential water-flow):</b> {Shape__Area}"
+        "content": "<b>Glacier name:</b> {Name}<br><b> Area (potential water-flow):</b> {Shape__Area} m^2"
       };   
       // Define the feature layer for the pop-up
       const glacier = new FeatureLayer({
