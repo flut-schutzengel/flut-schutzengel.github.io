@@ -3,7 +3,7 @@ An informative app for anyone to prepare against potential floods
 
 ## Features
 
-# 1) Areas under high flood-risk (teal/green - area) 
+# 1) Areas under high flood-risk (teal/blue - area) 
 (city center, Zurich/CH)
 These areas are expected to go under-water when the water elevation rises by 1-2 m. This includes risks from the following:
 * A typical Zurich flood goes up to 1.5 m above the current waterline (at 406 m).
